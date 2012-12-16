@@ -4,7 +4,7 @@ witws
 what is the work shared
 -----------------------
 
-### What is The Work shared?
+### What is the work shared?
 
-new line added locally
-
+What is meant by "the work"?
+What is sharing?
