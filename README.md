@@ -8,3 +8,4 @@ what is the work shared
 
 What is meant by "the work"?
 What is sharing?
+who do you trust? 
